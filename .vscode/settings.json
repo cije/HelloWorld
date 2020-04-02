@@ -1,0 +1,7 @@
+{
+    "files.autoGuessEncoding": true,
+    "python.pythonPath": "F:\\Anaconda3\\python.exe",
+    "java.dependency.packagePresentation": "flat",
+    "maven.view": "hierarchical",
+    "python.formatting.provider": "black"
+}
