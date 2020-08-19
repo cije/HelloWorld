@@ -1,31 +1,17 @@
 {
     "configurations": [
         {
-            "type": "java",
+            "type": "Java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "Solution.Main",
             "projectName": "HelloWorld_49ccb739"
         },
         {
-            "type": "java",
-            "name": "CodeLens (Launch) - Main",
+            "type": "python",
+            "name": "python:当前文件",
             "request": "launch",
-            "mainClass": "Main",
-            "projectName": "HelloWorld_49ccb739"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "Hello"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Hello",
-            "request": "launch",
-            "mainClass": "Hello",
-            "projectName": "HelloWorld_49ccb739"
+            "program": "${file}",
+            "console": "integratedTerminal"
         }
     ]
 }

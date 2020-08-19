@@ -3,5 +3,13 @@
     "python.pythonPath": "F:\\Anaconda3\\python.exe",
     "java.dependency.packagePresentation": "flat",
     "maven.view": "hierarchical",
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "black",
+    "workbench.list.openMode": "doubleClick",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.promptToConfigure": false
 }
